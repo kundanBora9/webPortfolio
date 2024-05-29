@@ -35,13 +35,13 @@ function Contact() {
   };
   return (
     <div id="Contact" className="text-white m-5">
-      <h1 className=" text-center text-6xl m-20">Get in touch</h1>
-      <div className="flex flex-col md:flex-row  self-start mt-10 mx-20">
+      <h1 className=" text-center text-6xl md:m-20 lg:m-20">Get in touch</h1>
+      <div className="flex flex-col md:flex-row  self-start mt-10 mx-5 md:mx-20 lg:mx-20">
         <div className="md:w-1/2 lg:w-1/2 w-screen mx-3">
           <h1 className="text-5xl md:text-5xl lg:text-7xl bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-yellow-500">
             Let's talk
           </h1>
-          <p className="w-1/2 md:w-8/12 lg:w-8/12 md:mx-3 md:my-3 lg:my-3 lg:mx-3">
+          <p className="w-4/5 md:w-8/12 lg:w-8/12 md:mx-3 md:my-3 lg:my-3 lg:mx-3">
             I'm currently available to take on new projects, so feel free to
             send me a message about anything that you want me to work on. You
             can contact me anytime.

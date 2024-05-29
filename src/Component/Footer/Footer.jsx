@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
   return (
     <div className="text-white">
-      <div className="flex flex-col justify-between md:flex-row items-center text-white mt-10 mb-2 ">
+      <div className="flex flex-col justify-evenly md:flex-row items-center text-white mt-10 mb-2 ">
         <div>
           <h1 className="text-3xl"  >Kundan.dev</h1>
           <p className="md:w-1/2 lg:w-1/2 ">

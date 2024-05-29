@@ -16,13 +16,13 @@ function About() {
             <img src={about_img} alt="" className="" />
           </div>
           <div className="">
-            <p className=" text-1xl mx-auto w-9/12 md:w-7/12  lg:w-11/12">
+            <p className=" text-lg mx-auto w-9/12 md:w-7/12  lg:w-11/12">
               Hello there! I'm Kundan Bora, a driven front-end developer hoping
               to establish a name for myself online. I've always been fascinated
               by the nexus of technology and design, and this curiosity has
               guided me toward frontend development.
             </p>
-            <h3 className="mt-5 text-5xl ">Teach Stack</h3>
+            <h3 className="mt-5 text-center text-3xl lg:text-left md:text-left ">Teach Stack</h3>
             <div className="flex flex-wrap gap-2 mt-2  mx-5">
               <img src={html} alt="" class="w-16 h-16 mr-2 mb-2"/>
               <img src={css} alt="" class="w-16 h-16 mr-2 mb-2"/>
