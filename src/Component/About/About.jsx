@@ -13,7 +13,7 @@ function About() {
       <div className="">
         <div className="flex flex-col md:flex-row items-center">
           <div className="w-full">
-            <img src={about_img} alt="" className="" />
+            <img src={about_img} alt="" className="size-4/5  md:size-10/12   lg:size-11/12" />
           </div>
           <div className="">
             <p className=" text-lg mx-auto w-9/12 md:w-7/12  lg:w-11/12">
