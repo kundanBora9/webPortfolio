@@ -11,7 +11,7 @@ function Hero() {
       </div>
       <div className='md:flex md:justify-center md:gap-3 md:content-center md:mt-2  lg:flex justify-center gap-3 content-center mt-2'>
       <div className=' px-1 py-1 rounded-lg bg-gradient-to-r from-pink-500 to-yellow-500 cursor-pointer hover:border-2'><AnchorLink className='anchor-link'href='#Contact'>Connect With Me </AnchorLink></div>
-      <div className='border p-1 rounded-lg cursor-pointer hover:border-indigo-800 '> My Resume</div>
+      <div className='border p-1 rounded-lg cursor-pointer hover:border-indigo-800 '>  <a href="https://example.com/my-resume.pdf" target="_blank" download="my-resume.pdf" className="text-white">My Resume</a></div>
       </div>
        
     </div>
