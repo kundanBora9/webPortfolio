@@ -9,9 +9,9 @@ function Project() {
   return (
     <div id="Project" className="">
       <div className="m-20">
-      <h1 className="text-white text-center text-6xl">Project</h1>
+      <h1 className="text-white text-center text-6xl">Latest Work </h1>
       <h1 className="text-white text-center text-1xl mt-3 md:text-2xl lg:text-2xl">
-        Each Project is a unique piece of development
+        Each Work is a unique piece of development
       </h1>
       </div>
       <div className="flex flex-col md:flex-row items-center mt-10 mx-20">
